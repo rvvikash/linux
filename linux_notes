@@ -7,3 +7,7 @@ then press shift and press : then write !wq to save the file
 to submit the code in spark .
 
 spark-submit basic.py
+
+
+to create multiple folder we can use :
+mkdir -p etc/etc1/etc2
