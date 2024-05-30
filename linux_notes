@@ -3,3 +3,7 @@ how to create a file using vi in linux
 vi basic.py
 press esc (to leave the terminal)
 then press shift and press : then write !wq to save the file 
+
+to submit the code in spark .
+
+spark-submit basic.py
